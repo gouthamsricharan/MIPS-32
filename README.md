@@ -1,4 +1,4 @@
-# pipe_MIPS32 – 5-Stage Pipelined MIPS Processor (Verilog)
+# MIPS32 – 5-Stage Pipelined MIPS Processor (Verilog)
 
 This is a Verilog implementation of a 5-stage pipelined MIPS-32 processor that simulates instruction-level parallelism using a two-phase clock (`clk1` and `clk2`).
 
