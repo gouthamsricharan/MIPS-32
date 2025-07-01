@@ -27,3 +27,9 @@ You can simulate this design using any Verilog simulator such as:
 - Icarus Verilog
 - Xilinx ISim (14.7 compatible)
 
+## 📷 Simulation Output
+
+The following image shows the simulation result/output waveform of the pipelined MIPS processor:
+
+![Simulation Output](output.png)
+
