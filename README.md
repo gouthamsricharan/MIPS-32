@@ -33,3 +33,5 @@ The following image shows the simulation result/output waveform of the pipelined
 
 ![Simulation Output](output.png)
 
+
+.
